@@ -1,0 +1,20 @@
+[
+  {
+    "name": "234 Apartment",
+    "address": "Sector 40 Mohyal colony, Gurgaon, Haryana",
+    "rent": 10000,
+    "bedrooms": 3,
+    "notes": "Only for married couples",
+    "submitted_at": "2026-07-18T18:50:45.364679",
+    "status": "pending"
+  },
+  {
+    "name": "234 Apartment",
+    "address": "Sector 40 Mohyal colony gurgaon",
+    "rent": 10000,
+    "bedrooms": 3,
+    "notes": "Only for married couples",
+    "submitted_at": "2026-07-18T18:51:10.407820",
+    "status": "pending"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Palm Grove Residency",
+    "address": "Sector 48, Faridabad, Haryana",
+    "rent": 14000,
+    "bedrooms": 2,
+    "commute_mins": 18,
+    "notes": "Spacious balcony, near market"
+  },
+  {
+    "name": "Green Valley Heights",
+    "address": "Sector 21C, Faridabad, Haryana",
+    "rent": 18500,
+    "bedrooms": 3,
+    "commute_mins": 25,
+    "notes": "Gated society with gym"
+  },
+  {
+    "name": "Silver Oak Suites",
+    "address": "Sector 15, Faridabad, Haryana",
+    "rent": 11000,
+    "bedrooms": 1,
+    "commute_mins": 12,
+    "notes": "Walking distance from metro"
+  },
+  {
+    "name": "Urban Nest Apartments",
+    "address": "NIT 5, Faridabad, Haryana",
+    "rent": 9500,
+    "bedrooms": 1,
+    "commute_mins": 15,
+    "notes": "Budget friendly studio"
+  }
+]
