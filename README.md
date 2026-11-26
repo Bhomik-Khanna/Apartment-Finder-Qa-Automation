@@ -158,6 +158,6 @@ Test results are uploaded as workflow artifacts.
 `-- requirements-test.txt
 ```
 
-## Author
 
-[Bhomik-Khanna](https://github.com/Bhomik-Khanna)
+
+Bhomik-Khanna
